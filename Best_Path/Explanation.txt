@@ -1,0 +1,10 @@
+How does the program work? It receives from the user a file with a matrix or generates its own.
+The matrix includes numbers and symbols, they are considered obstacles that you can go through.
+The program is implemented in Java and Java GUI framework. 
+It has some important Java concepts like - File I/O, hierarchy, abstraction, interfaces, recursion, exceptions and GUI. 
+
+The user will be asked to type a file name or generate a random matrix.
+Then, he will have options to go over every element in the matrix, 
+go over all numbers in the matrix, go over all obstacles in the matrix, 
+and finally, the most important one, he can ask for the best path and the best score.
+Moreover, he can display it visually and the user will be able to see the path colored.
